@@ -1,6 +1,6 @@
 {
   "name": "a-animation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Home for A-Frame's deprecated a-animation for legacy code, now replaced by a component.",
   "main": "index.js",
   "scripts": {

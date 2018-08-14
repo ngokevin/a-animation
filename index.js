@@ -50,8 +50,8 @@ registerElement('a-animation', {
         this.tween = null;
 
         if (!hasLoggedDeprecation) {
-          warn('<a-animation> has been deprecated and will be replaced by the animation ' +
-               'component: https://www.npmjs.com/package/aframe-animation-component');
+          warn('<a-animation> is deprecated and has been replaced by the animation ' +
+               'component in A-Frame v0.9.0.');
           hasLoggedDeprecation = true;
         }
       }
